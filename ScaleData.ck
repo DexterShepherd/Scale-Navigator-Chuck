@@ -1,4 +1,4 @@
-class ScaleData {
+public class ScaleData {
   int chordsByName[][];
   ScaleObject scales[];
 
