@@ -1,6 +1,6 @@
 public class ScaleData {
-  int chordsByName[][];
-  ScaleObject scales[];
+  int chordsByName[0][0];
+  ScaleObject scales[0];
 
 
 
@@ -1810,8 +1810,8 @@ public class ScaleData {
 class ScaleObject {
   string name;
   int root;
-  string adjacent[];
-  string chords[];
-  int pitches[];
+  string adjacent[0];
+  string chords[0];
+  int pitches[0];
   string scaleClass;
 }
