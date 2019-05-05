@@ -28,4 +28,4 @@ async function render(file, output) {
 }
 
 
-render("./scale-template.ck", "./ScaleData.ck")
+render("./scale-template.ck", "./chuck/ScaleData.ck")
